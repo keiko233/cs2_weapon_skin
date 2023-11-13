@@ -370,7 +370,7 @@ const char* Skin::GetLogTag()
 
 const char* Skin::GetAuthor()
 {
-	return "宇宙遨游";
+	return "keiko233";
 }
 
 const char* Skin::GetDescription()
@@ -385,5 +385,5 @@ const char* Skin::GetName()
 
 const char* Skin::GetURL()
 {
-	return "http://cs2.wssr.top";
+	return "http://elaina.moe";
 }
